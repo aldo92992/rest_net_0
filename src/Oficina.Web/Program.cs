@@ -8,7 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add DbContext with SQL Server
 builder.Services.AddDbContext<OficinaDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("OficinaDb")));
+    options.UseInMemoryDatabase("OficinaDB"));
+    //options.UseSqlServer(builder.Configuration.GetConnectionString("OficinaDb")));
 
 // Repositories (Infrastructure)
 builder.Services.AddScoped<IEmpleadoRepository, EmpleadoRepository>();
