@@ -77,3 +77,14 @@ C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\obj\Debug\net8.0\Oficina.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\obj\Debug\net8.0\Oficina.Web.sourcelink.json
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Web\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

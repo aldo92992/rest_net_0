@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oficina.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ab347b1b01454a24aef060020ba9e3170f8de8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3860ca2c2442420d80f51a7d7d1cde457a77c96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oficina.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oficina.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

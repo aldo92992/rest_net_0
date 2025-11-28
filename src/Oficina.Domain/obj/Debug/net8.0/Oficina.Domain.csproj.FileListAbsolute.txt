@@ -9,3 +9,4 @@ C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Domain\
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Domain\obj\Debug\net8.0\refint\Oficina.Domain.dll
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Domain\obj\Debug\net8.0\Oficina.Domain.pdb
 C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Domain\obj\Debug\net8.0\ref\Oficina.Domain.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Domain\obj\Debug\net8.0\Oficina.Domain.sourcelink.json
