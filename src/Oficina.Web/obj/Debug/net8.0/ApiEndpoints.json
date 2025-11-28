@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "Oficina.Web.Controllers.AreaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Area",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Empleado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "Create",
+    "RelativePath": "api/Empleado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Oficina.Application.DTOs.CreateEmpleadoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "GetById",
+    "RelativePath": "api/Empleado/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "Update",
+    "RelativePath": "api/Empleado/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Oficina.Application.DTOs.UpdateEmpleadoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "Delete",
+    "RelativePath": "api/Empleado/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "GetByArea",
+    "RelativePath": "api/Empleado/area/{areaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "areaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Oficina.Web.Controllers.EmpleadoController",
+    "Method": "GetByName",
+    "RelativePath": "api/Empleado/name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

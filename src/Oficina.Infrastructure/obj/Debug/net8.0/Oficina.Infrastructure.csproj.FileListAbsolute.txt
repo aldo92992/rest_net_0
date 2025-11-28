@@ -1,0 +1,17 @@
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Infrastructure.deps.json
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Infrastructure.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Infrastructure.pdb
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Application.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Domain.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Application.pdb
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\bin\Debug\net8.0\Oficina.Domain.pdb
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.AssemblyInfo.cs
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina..BFDE35F9.Up2Date
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\refint\Oficina.Infrastructure.dll
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\Oficina.Infrastructure.pdb
+C:\Users\bmfa8\Desktop\ISTVN\25-26\dev\Oficina_MVC_OficinaDB\src\Oficina.Infrastructure\obj\Debug\net8.0\ref\Oficina.Infrastructure.dll

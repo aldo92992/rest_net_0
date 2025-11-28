@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Web\\Oficina.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj",
+        "projectName": "Oficina.Application",
+        "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj",
+        "packagesPath": "C:\\Users\\bmfa8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bmfa8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj": {
+                "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj",
+        "projectName": "Oficina.Domain",
+        "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj",
+        "packagesPath": "C:\\Users\\bmfa8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bmfa8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\Oficina.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\Oficina.Infrastructure.csproj",
+        "projectName": "Oficina.Infrastructure",
+        "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\Oficina.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bmfa8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bmfa8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj": {
+                "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj"
+              },
+              "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj": {
+                "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Domain\\Oficina.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Web\\Oficina.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Web\\Oficina.Web.csproj",
+        "projectName": "Oficina.Web",
+        "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Web\\Oficina.Web.csproj",
+        "packagesPath": "C:\\Users\\bmfa8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bmfa8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj": {
+                "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Application\\Oficina.Application.csproj"
+              },
+              "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\Oficina.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\bmfa8\\Desktop\\ISTVN\\25-26\\dev\\Oficina_MVC_OficinaDB\\src\\Oficina.Infrastructure\\Oficina.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
